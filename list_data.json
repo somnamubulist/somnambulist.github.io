@@ -3,18 +3,21 @@
 		{
 			"Title": "Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins",
 			"Author": "Garry Kasparov, Mig Greengard",
+			"Publisher":"PublicAffairs", 
 			"Category": "Computer Science",
 			"Year": "2017"
 		},
 		{
 			"Title": "Artificial Communication: How Algorithms Produce Social Intelligence",
 			"Author": "Elena Esposito",
+			"Publisher":"MIT Press",
 			"Category": "Sociology",
 			"Year": "2022"
 		},
 		{
-			"Title": "The Joy of Search: A Google Insider's Guide to Going Beyond the Basics (The MIT Press",
+			"Title": "The Joy of Search: A Google Insider's Guide to Going Beyond the Basics",
 			"Author": "Daniel M. Russel",
+			"Publisher":"MIT Press",
 			"Category": "Networking",
 			"Year": "2019"
 		}
