@@ -1,22 +1,22 @@
 {
 	"movies": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins",
+			"Author": "Garry Kasparov, Mig Greengard",
+			"Category": "Computer Science",
+			"Year": "2017"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Artificial Communication: How Algorithms Produce Social Intelligence",
+			"Author": "Elena Esposito",
+			"Category": "Sociology",
+			"Year": "2022"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "The Joy of Search: A Google Insider's Guide to Going Beyond the Basics (The MIT Press",
+			"Author": "Daniel M. Russel",
+			"Category": "Networking",
+			"Year": "2019"
 		}
 	]
 }
