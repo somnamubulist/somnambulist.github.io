@@ -17,7 +17,7 @@
 </restaurant>
 
 <restaurant>
-< restaurant id="1"> 
+<restaurant id="1"> 
 <name>Cheeseboard</name>
 <cuisine>Italian</cuisine>
 <city>Berkeley</city>
